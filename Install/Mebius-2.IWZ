@@ -1,0 +1,311 @@
+
+[InstallShield Wizard]
+iDate=1
+iTime=1
+Flag=0
+ISX.EXE Size=679936
+ISX.EXE Date=11:21:52  8.4.1999
+ISX.EXE Ver=2.1.2.62
+SETUP.EXE Size=45312
+SETUP.EXE Date=9:12:24  23.3.1999
+SETUP.EXE Ver=3.0.111.0
+SETUP.INS Size=81342
+SETUP.INS Date=11:26:40  8.4.1999
+SETUP.INS Ver=Не доступно
+_INST16.EX_ Size=81342
+_INST16.EX_ Date=11:26:40  8.4.1999
+_INST16.EX_ Ver=Не доступно
+_INST32I.EX_ Size=294079
+_INST32I.EX_ Date=9:12:22  23.3.1999
+_INST32I.EX_ Ver=Не доступно
+ISDEPEND.INI Size=6857
+ISDEPEND.INI Date=10:13:00  23.7.1999
+ISDEPEND.INI Ver=Не доступно
+SWDEPEND.INI Size=9717
+SWDEPEND.INI Date=10:18:30  23.7.1999
+SWDEPEND.INI Ver=Не доступно
+ICOMP.EXE Size=119808
+ICOMP.EXE Date=9:12:24  23.3.1999
+ICOMP.EXE Ver=3.00.062
+SPLIT.EXE Size=90624
+SPLIT.EXE Date=9:12:24  23.3.1999
+SPLIT.EXE Ver=3.00.060
+PACKLIST.EXE Size=87552
+PACKLIST.EXE Date=9:12:24  23.3.1999
+PACKLIST.EXE Ver=3.00.060
+Version=2.12
+DevTool=Delphi 5
+Platform=Win32
+DisksBuilt=1
+DisksDir=MEBIUS-2\144MB\
+TabsVisit=11111111100001111
+LangNum=0
+LangDir=
+
+[VisualDesign]
+AppName=Мебиус-2
+AppExe=
+AppExeFile=
+Version=1.0.0.8
+Company=СКБ Приборы и системы
+Title=Мебиус-2 (версия 1.0.0.8)
+TitleType=1
+BackgrndBmp=D:\Mav\PAS\SKB\Images\Logo.BMP
+BackgrndAlign=4
+Backgrnd=1
+BackgrndColor=0
+Uninstall=1
+UninstallChecked=1
+Silent=1
+SmsMode=0
+
+[Types]
+Types=3
+Type1Components=3
+Type1Name=Выборочная
+Type1ComponentList=1 2 3 
+Type2Components=3
+Type2Name=Типичная
+Type2ComponentList=2 3 1 
+Type3Components=2
+Type3Name=Минимальная
+Type3ComponentList=1 2 
+
+[Components]
+Components=3
+Component1Groups=1
+Component1Name=Программные файлы
+Component1Description=Только програмные файлы необходимые для запуска программы
+Component1GroupList=1 
+Component2Groups=1
+Component2Name=База данных
+Component2Description=Файлы базы данных
+Component2GroupList=2 
+Component3Groups=2
+Component3Name=Поддержка баз данных
+Component3Description=Файлы поддержки баз данных
+Component3GroupList=3 4 
+
+[Groups]
+Groups=4
+Group1Size=3573680
+Group1Files=8
+Group1Name=Program Files
+Group1Dir=<INSTALLDIR>
+Group1Update=0
+Group1TargetOS=-1
+Group1File1=D:\Mav\PAS\SKB\Mebius\Docs\Рекламный лист.doc
+Group1File2=D:\Mav\PAS\SKB\Mebius\Mebius-2\Sound.dll
+Group1File3=D:\Mav\PAS\SKB\Mebius\Mebius-2\Kanals.dat
+Group1File4=D:\Mav\PAS\SKB\Mebius\Mebius-2\Mebius_2.exe
+Group1File5=D:\Mav\PAS\SKB\Mebius\Mebius-2\Pictures.dll
+Group1File6=D:\Mav\PAS\SKB\Mebius\Mebius-2\Config.dat
+Group1File7=D:\Mav\PAS\SKB\Mebius\Mebius-2\Руководство пользователя.doc
+Group1File8=D:\Mav\PAS\SKB\Docs\Прайс-лист.doc
+Group2Size=1043615
+Group2Files=16
+Group2Name=Data
+Group2Dir=<DATABASEDIR>
+Group2Update=0
+Group2TargetOS=-1
+Group2File1=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Arhive.DB
+Group2File2=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\users.VAL
+Group2File3=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Arhive.FAM
+Group2File4=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Arhive.TV
+Group2File5=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Arhives.DB
+Group2File6=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Arhives.PX
+Group2File7=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Arhives.VAL
+Group2File8=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Dbdwork.ini
+Group2File9=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Kanal1.DB
+Group2File10=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Kanal2.DB
+Group2File11=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Log.db
+Group2File12=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Types.DB
+Group2File13=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Types.PX
+Group2File14=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\Types.VAL
+Group2File15=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\users.DB
+Group2File16=D:\Mav\PAS\SKB\Mebius\Mebius-2\Data\users.PX
+Group3Size=2943328
+Group3Files=12
+Group3Auto=101
+Group3ID=38701
+Group3Name=BDE/IDAPI Files
+Group3Dir=<ProgramFilesDir>\Common Files\Borland Shared\BDE
+Group3Update=-1
+Group3TargetOS=-1
+Group3File1=D:\Delphi\Borland Shared\Bde\IDAPI32.DLL
+Group3File1Auto=101
+Group3File2=D:\Delphi\Borland Shared\Bde\IDR20009.DLL
+Group3File2Auto=101
+Group3File3=D:\Delphi\Borland Shared\Bde\BLW32.DLL
+Group3File3Auto=101
+Group3File4=D:\Delphi\Borland Shared\Bde\BDEADMIN.EXE
+Group3File4Auto=101
+Group3File5=D:\Delphi\Borland Shared\Bde\IDPDX32.DLL
+Group3File5Auto=101
+Group3File6=D:\Delphi\Borland Shared\Bde\IDSQL32.DLL
+Group3File6Auto=101
+Group3File7=D:\Delphi\Borland Shared\Bde\IDBAT32.DLL
+Group3File7Auto=101
+Group3File8=D:\Delphi\InstallShield\Express for Delphi 5\_deisreg.isr
+Group3File8Auto=101
+Group3File9=D:\Delphi\Borland Shared\Bde\BANTAM.DLL
+Group3File9Auto=101
+Group3File10=D:\Delphi\Borland Shared\Bde\USA.BTL
+Group3File10Auto=101
+Group3File11=D:\Delphi\Borland Shared\Bde\OTHER.BTL
+Group3File11Auto=101
+Group3File12=D:\Delphi\Borland Shared\Bde\CHARSET.CVB
+Group3File12Auto=101
+Group4Size=6080
+Group4Files=1
+Group4Auto=98
+Group4ID=38698
+Group4Name=BDE/IDAPI CNF File
+Group4Dir=<ProgramFilesDir>\Common Files\Borland Shared\BDE
+Group4Update=-1
+Group4TargetOS=-1
+Group4File1=D:\Delphi\InstallShield\Express for Delphi 5\redist\IDAPI.CNF
+Group4File1Auto=98
+
+[Sequence]
+DestinationLocationDir=<ProgramFilesDir>\SKB\Mebius\Mebius_2
+DatabaseLocationDir=<INSTALLDIR>\Data
+SelectProgramFolderName=СКБ\Мебиус\Мебиус-2
+WelcomeMessage=1
+WelcomeMessageFile=
+UserInformation=1
+DestinationLocation=1
+DatabaseLocation=1
+SetupType=1
+CustomSetup=1
+SelectProgramFolder=1
+BeginFileTransfer=1
+ProgressBar=1
+SetupComplete=1
+SetupCompleteExec=[Program Files]\Mebius_2.exe
+SetupCompleteExecParam=
+SetupCompleteExecReadme=
+
+[RegEntries]
+Reg1Path=HKEY_CLASSES_ROOT
+Reg1Val1Type=0
+Reg1Val1Name=(Default)
+Reg1Val1Data=(value not set)
+Reg1Vals=1
+Reg2Path=HKEY_CURRENT_USER
+Reg2Val1Type=0
+Reg2Val1Name=(Default)
+Reg2Val1Data=(value not set)
+Reg2Vals=1
+Reg3Path=HKEY_LOCAL_MACHINE
+Reg3Val1Type=0
+Reg3Val1Name=(Default)
+Reg3Val1Data=(value not set)
+Reg3Vals=1
+Reg4Path=HKEY_USERS
+Reg4Val1Type=0
+Reg4Val1Name=(Default)
+Reg4Val1Data=(value not set)
+Reg4Vals=1
+Reg5Path=HKEY_CURRENT_CONFIG
+Reg5Val1Type=0
+Reg5Val1Name=(Default)
+Reg5Val1Data=(value not set)
+Reg5Vals=1
+Reg6Path=HKEY_DYN_DATA
+Reg6Val1Type=0
+Reg6Val1Name=(Default)
+Reg6Val1Data=(value not set)
+Reg6Vals=1
+Regs=6
+
+[Registry]
+
+[Icons]
+Icons=5
+Icon1Param=
+Icon1Cmd=[Program Files]\Mebius_2.exe
+Icon1Description=Мебиус-2
+Icon1WorkingDir=[Program Files]
+Icon1IconFile=
+Icon1RealFile=D:\Mav\PAS\SKB\Mebius\RS232\Mebius-16\Meb16_RS232.exe
+Icon1WhichIcon=0
+Icon1KeyVirtual=0
+Icon1KeyFlags=0
+Icon1StartMenu=0
+Icon1Window=0
+Icon2Param=
+Icon2Cmd=[Program Files]\Mebius_2.exe
+Icon2Description=Мебиус-2
+Icon2WorkingDir=[Program Files]
+Icon2IconFile=
+Icon2RealFile=D:\Mav\PAS\SKB\Mebius\RS232\Mebius-16\Meb16_RS232.exe
+Icon2WhichIcon=0
+Icon2KeyVirtual=0
+Icon2KeyFlags=0
+Icon2StartMenu=3
+Icon2Window=1
+Icon3Param=
+Icon3Cmd=[Program Files]\Рекламный лист.doc
+Icon3Description=Рекламный лист
+Icon3WorkingDir=[Program Files]
+Icon3IconFile=
+Icon3RealFile=D:\Mav\PAS\SKB\Mebius\Docs\Рекламный лист.doc
+Icon3WhichIcon=0
+Icon3KeyVirtual=0
+Icon3KeyFlags=0
+Icon3StartMenu=0
+Icon3Window=0
+Icon4Param=
+Icon4Cmd=[Program Files]\Прайс-лист.doc
+Icon4Description=Прайс-лист
+Icon4WorkingDir=[Program Files]
+Icon4IconFile=
+Icon4RealFile=D:\Mav\PAS\SKB\Docs\Прайс-лист.doc
+Icon4WhichIcon=0
+Icon4KeyVirtual=0
+Icon4KeyFlags=0
+Icon4StartMenu=0
+Icon4Window=0
+Icon5Param=
+Icon5Cmd=[Program Files]\Руководство пользователя.doc
+Icon5Description=Руководство пользователя
+Icon5WorkingDir=[Program Files]
+Icon5IconFile=
+Icon5RealFile=D:\Mav\PAS\SKB\Mebius\Mebius-2\Руководство пользователя.doc
+Icon5WhichIcon=0
+Icon5KeyVirtual=0
+Icon5KeyFlags=0
+Icon5StartMenu=0
+Icon5Window=0
+
+[IDAPI Alias]
+Alias1=Mebius_2
+Alias1Path=<DATABASEDIR>
+Alias1Type=PARADOX
+Aliases=1
+SaveCfg=1
+
+[IDAPI Alias Mebius_2]
+
+
+
+
+[Autoexec]
+PathDir=
+ShareLocks=
+ShareFiles=
+Command=
+
+[CopyToFloppy]
+DriveOption=A:
+DestinationPath=
+DestinationPathOneFile=
+Password=
+
+[ISObjectIDs]
+nTotal=1
+ID1=101
+
+[Uninstall]
+UserUninstall=0
